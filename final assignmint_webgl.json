@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Hummingbirds",
+"productVersion": "0.1",
+"dataUrl": "final assignmint_webgl.data.unityweb",
+"wasmCodeUrl": "final assignmint_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "final assignmint_webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
